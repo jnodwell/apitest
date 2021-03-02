@@ -1,0 +1,10 @@
+{
+  "Customer": {
+    "gigya_uid": "string",
+    "email": "string",
+    "is_referred": "boolean",
+    "referral_date": "date",
+    "referrer_gigya_uid": "string",
+    "referrer_awarded": "boolean"
+  }
+}
